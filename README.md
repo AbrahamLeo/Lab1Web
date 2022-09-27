@@ -4,8 +4,8 @@
 ### Mengganti Nama Tab
 Untuk mengganti nama tab kita cukup mengganti konten dari tag <title></title>
 Berikut adalah syntaxnya dan hasilnya
-![Syntax](Screenshot/Tab1.png)
-![Hasil](screenshot/Tab2.png)
+![Coding](Screenshot/Tab2.png)
+![Hasil](screenshot/Tab1.png)
 ### Paragraf
 Untuk membuat paragraf kita dapat memasukan tag <p></p>  
 ![Syntax](Screenshot/Paragraf2.png)
