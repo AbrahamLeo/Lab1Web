@@ -2,7 +2,7 @@
 
 
 # Tab
-![img]screenshoot/Tab2.png
+![Gambar 1](screenshoot/Tab2.png)
 # Paragraf
 
 # Judul
